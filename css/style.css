@@ -1,0 +1,17 @@
+@import url(http://fonts.googleapis.com/css?family=Quicksand);
+
+h1{
+  color : rgb(0,0,255);
+  text-align : center;
+  font-family: 'Quicksand', sans-serif;
+  font-weight : bold;
+}
+h2{
+  color : rgb(255,0,0);
+  font-family: 'Quicksand', sans-serif;
+  font-style : italic
+}
+sharks{
+  width : 25%;
+}
+
